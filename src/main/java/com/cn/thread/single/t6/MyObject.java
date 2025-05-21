@@ -1,6 +1,5 @@
 package com.cn.thread.single.t6;
 
-import com.mysql.cj.jdbc.ConnectionImpl;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

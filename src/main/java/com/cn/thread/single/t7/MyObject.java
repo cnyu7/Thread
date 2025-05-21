@@ -7,7 +7,7 @@ public class MyObject implements Serializable {
         INSTANCE;
         private MyObject myObject;
 
-       private MyEnumSingleton() {
+       MyEnumSingleton() {
             myObject = new MyObject();
         }
 

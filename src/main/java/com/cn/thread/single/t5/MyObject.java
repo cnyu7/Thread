@@ -1,6 +1,5 @@
 package com.cn.thread.single.t5;
 
-import java.io.ObjectStreamException;
 import java.io.Serializable;
 
 public class MyObject implements Serializable {
